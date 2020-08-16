@@ -32,14 +32,15 @@ works like a console with short cut keys as commands
     Select file from appering list
     Write content and use Ctrl+z to end typing data
 
-### Upload File Shift+Ctrl+P
+<H3>Upload File</H3> <H5 >Shift+Ctrl+P</H5> 
 
     The default upload directory files are read when the program is first run .
     they come as a list and the file is copied to module with the same name and content.
     so the user can use an ordinary word processor to create files
-    
-### Download File Shift+Ctrl+T
- The files in the module are read with list. the selected file is copied to default 
- download directory with the same name and content.
+
+<H3>Download File</H3> <H5 >Shift+Ctrl+T</H5> 
+
+    The files in the module are read with list. the selected file is copied to default 
+    download directory with the same name and content.
  
     
