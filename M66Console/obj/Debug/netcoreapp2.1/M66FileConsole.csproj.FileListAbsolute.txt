@@ -1,0 +1,17 @@
+C:\Users\Anil\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\Resources\Configuration.json
+C:\Users\Anil\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\M66FileConsole.deps.json
+C:\Users\Anil\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\M66FileConsole.runtimeconfig.json
+C:\Users\Anil\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\M66FileConsole.runtimeconfig.dev.json
+C:\Users\Anil\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\M66FileConsole.dll
+C:\Users\Anil\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\M66FileIO.dll
+C:\Users\Anil\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\TextReadWrite.dll
+C:\Users\Anil\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\M66FileIO.pdb
+C:\Users\Anil\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\TextReadWrite.pdb
+C:\Users\Anil\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\M66FileConsole.csprojAssemblyReference.cache
+C:\Users\Anil\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\M66FileConsole.csproj.CoreCompileInputs.cache
+C:\Users\Anil\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\M66FileConsole.AssemblyInfoInputs.cache
+C:\Users\Anil\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\M66FileConsole.AssemblyInfo.cs
+C:\Users\Anil\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\M66FileConsole.csproj.CopyComplete
+C:\Users\Anil\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\M66FileConsole.pdb
+C:\Users\Anil\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\M66FileConsole.dll
+C:\Users\Anil\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\M66FileConsole.pdb

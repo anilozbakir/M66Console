@@ -1,0 +1,7 @@
+{
+  "defaultdownloadfolder": "d:\\M66Download\\",
+  "defaultuploadfolder": "d:\\M66Upload\\",
+  "Comport": "COM9",
+  "BaudRate": 115200
+
+}
