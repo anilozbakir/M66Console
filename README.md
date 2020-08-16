@@ -1,5 +1,5 @@
 # M66Console
-## M66 module serial port console
+## M66 module serial port console for PC
 
 uses [M66FileIO](https://github.com/anilozbakir/M66FileIO) for listing/reading/writing/deleting file. 
 you can also define default directories for downloading/uploading of files in the module.
