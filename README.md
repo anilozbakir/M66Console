@@ -19,14 +19,25 @@ works like a console with short cut keys as commands
     
 ### WriteFile Shift+Ctrl+W
 
-    Enter the new name of the file and then write the contents when promoted
+    Enter the new name of the file and then write the contents when promted. use Ctrl+z to end tyoing data
+
+### DeleteFile Shift+Ctrl+D
+
+    Select the File from list and Delete.use List Command to refresh the list
+    
+### Append File Shift+Ctrl+A
+
+    Select file from appering list
+    Write content and use Ctrl+z to end typing data
 
 ### Upload File Shift+Ctrl+P
 
-    The default upload directory files are read when the program is first run .they come as a list and the
-    file is copied to module with the same name and content.so the user can use an ordinary word processor to create files
+    The default upload directory files are read when the program is first run .
+    they come as a list and the file is copied to module with the same name and content.
+    so the user can use an ordinary word processor to create files
     
-### Download File Shift+Ctrl+
- The files in the module are read with list. the selected file is copied to default download directory with the same name and content.
+### Download File Shift+Ctrl+T
+ The files in the module are read with list. the selected file is copied to default 
+ download directory with the same name and content.
  
     
